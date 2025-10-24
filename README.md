@@ -1,4 +1,4 @@
-# Project Responsive Web Design using Bootstrap
+<img width="1920" height="1080" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/9487a769-e892-4000-88fe-2513fff84bdb" /># Project Responsive Web Design using Bootstrap
 ## Date:
 
 ## AIM:
@@ -29,8 +29,9 @@ Publish the website in the LocalHost.
 
 
 ## OUTPUT:
-![Uploading Screenshot (64).png…]()
 
+
+<img width="1920" height="1080" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/75424618-4b28-4eb1-a192-793a12ec9450" />
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
