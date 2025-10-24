@@ -203,6 +203,7 @@ Publish the website in the LocalHost.
 </html>
 ```
 ## OUTPUT:
+<img width="1920" height="1080" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/a6c794e8-28e5-4f0d-ab32-2e48de0002f2" />
 
 
 <img width="1920" height="1080" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/75424618-4b28-4eb1-a192-793a12ec9450" />
