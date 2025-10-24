@@ -29,6 +29,7 @@ Publish the website in the LocalHost.
 
 
 ## OUTPUT:
+![Uploading Screenshot (64).png…]()
 
 
 ## RESULT:
